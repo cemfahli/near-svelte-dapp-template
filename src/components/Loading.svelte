@@ -1,0 +1,1 @@
+<span class="inline-block animate-spin-fast h-3 w-3 p-3 border-l-2 border-t-2 border-purple-700 rounded-full"></span>
