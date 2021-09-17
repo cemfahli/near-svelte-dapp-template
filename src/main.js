@@ -1,4 +1,5 @@
 import './global.css';
+import 'regenerator-runtime/runtime'
 
 import App from './App.svelte';
 
