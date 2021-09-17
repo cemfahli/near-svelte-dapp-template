@@ -34,7 +34,7 @@ where YOUR_ACCOUNT_HERE is the account you previously logged into
 
 
 ### Front-end
-There are several environmental variables used while building the front-end. The defaults can be seen in the ``.env.defaults`` file and can be overwritten either with environmental variables or by a ``.env`` file in the base directory. 
+There are several environmental variables used while building the front-end. The defaults can be seen in the ``.env`` file and can be overwritten. 
 The descriptions of the variables are:
 - ``CONTRACT_ACCOUNT``: The account id you will be deploying the contract to
 - ``APP_NAME``: The name of your application
